@@ -4,3 +4,5 @@
 # H4 MSGISci
 
 Added a header
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
